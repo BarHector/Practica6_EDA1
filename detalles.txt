@@ -1,0 +1,4 @@
+Implementar utilizando memoria estática (arreglos) una Cola Circular.
+
+El programa debe permitir insertar, eliminar,  imprimir toda la cola, mostrar head (cabeza), 
+mostrar tail (cola) y salir.
